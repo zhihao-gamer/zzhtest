@@ -1,4 +1,4 @@
-package xcmg.global.cockpit.backend.Util;
+package xcmg.global.cockpit.backend.util;
 
 public class StringUtil {
     public static boolean isNullEmpTrim(String str) {

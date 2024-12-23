@@ -1,4 +1,4 @@
-package xcmg.global.cockpit.backend.Util;
+package xcmg.global.cockpit.backend.util;
 
 import java.io.IOException;
 import java.security.KeyManagementException;

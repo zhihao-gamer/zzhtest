@@ -7,9 +7,9 @@ import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
-import xcmg.global.cockpit.backend.Util.HttpUtil;
-import xcmg.global.cockpit.backend.Util.OauthUtil;
-import xcmg.global.cockpit.backend.Util.StringUtil;
+import xcmg.global.cockpit.backend.util.HttpUtil;
+import xcmg.global.cockpit.backend.util.OauthUtil;
+import xcmg.global.cockpit.backend.util.StringUtil;
 
 import java.io.IOException;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package xcmg.global.cockpit.backend.Util;
+package xcmg.global.cockpit.backend.util;
 
 import java.util.HashMap;
 import java.util.Map;

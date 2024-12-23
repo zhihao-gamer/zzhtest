@@ -1,8 +1,11 @@
-package xcmg.global.cockpit.backend.model;
+package xcmg.global.cockpit.backend.vo.param;
 
-public class User {
 
-    private String userName;
+
+
+public class UserParamVO {
+
+    private String username;
 
     private String phone;
 
@@ -16,12 +19,12 @@ public class User {
         this.age = age;
     }
 
-    public String getUserName() {
-        return userName;
+    public String getUsername() {
+        return username;
     }
 
-    public void setUserName(String userName) {
-        this.userName = userName;
+    public void setUsername(String userName) {
+        this.username = userName;
     }
 
     public String getPhone() {
@@ -31,4 +34,5 @@ public class User {
     public void setPhone(String phone) {
         this.phone = phone;
     }
+
 }
